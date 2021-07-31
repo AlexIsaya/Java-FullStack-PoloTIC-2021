@@ -1,0 +1,7 @@
+Información de la Base de datos
+
+Nombre de usuario: usuario
+Contraseña: 12345
+BD: tpo2int
+Nombre del servidor: localhost
+
